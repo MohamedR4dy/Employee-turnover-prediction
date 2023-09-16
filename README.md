@@ -1,13 +1,14 @@
 # Employee Attrition Analysis
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Data Overview](#data-overview)
-3. [Hypothesis Testing](#hypothesis-testing)
-4. [Chi-Square Test of Independence](#chi-square-test-of-independence)
-5. [Predicting Employee Attrition](#predicting-employee-attrition)
-6. [Key Inferences](#key-inferences)
-7. [Conclusion](#conclusion)
+1. [Introduction](#1-introduction)
+2. [Data Overview](#2-data-overview)
+3. [Hypothesis Testing](#3-hypothesis-testing)
+4. [Chi-Square Test of Independence](#4-chi-square-test-of-independence)
+5. [Predicting Employee Attrition](#5-predicting-employee-attrition)
+6. [Key Inferences](#6-key-inferences)
+7. [Conclusion](#7-conclusion)
+
 
 ---
 
